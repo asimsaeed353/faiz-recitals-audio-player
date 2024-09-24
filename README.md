@@ -21,7 +21,7 @@ This website is for web broswer only.
 
 ### Links
 
-- Live Site URL: [Live Site](https://asimsaeed353.github.io/social-links-profile-main/)
+- Live Site URL: [Live Site](https://asimsaeed353.github.io/faiz-recitals-audio-player/)
 
 ## My process
 
